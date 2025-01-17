@@ -7,6 +7,8 @@ This is a full-stack Task Manager application built with:
 
 -**Deployed Link**: http://task-manager-rosche.s3-website.ap-south-1.amazonaws.com/
 
+-**Note**: In deployed link remove 's' from https and try. 
+
 ## Features
 - User authentication (login/signup) with JWT.
 - Create, read, update, and delete tasks.
