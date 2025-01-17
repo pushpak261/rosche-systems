@@ -5,7 +5,7 @@ This is a full-stack Task Manager application built with:
 - **Frontend**: React, Material-UI
 - **Deployed**: AWS
 
--**Deployed Link**: http://task-manager-rosche.s3-website.ap-south-1.amazonaws.com/signup
+-**Deployed Link**: http://task-manager-rosche.s3-website.ap-south-1.amazonaws.com/
 
 ## Features
 - User authentication (login/signup) with JWT.
