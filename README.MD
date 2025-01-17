@@ -3,6 +3,7 @@
 This is a full-stack Task Manager application built with:
 - **Backend**: Node.js, Express, MongoDB
 - **Frontend**: React, Material-UI
+- **Deployed**: AWS
 
 ## Features
 - User authentication (login/signup) with JWT.
@@ -16,3 +17,4 @@ This is a full-stack Task Manager application built with:
    ```bash
    cd backend# rosche-systems
 # rosche-systems
+
