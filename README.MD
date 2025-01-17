@@ -4,6 +4,7 @@ This is a full-stack Task Manager application built with:
 - **Backend**: Node.js, Express, MongoDB
 - **Frontend**: React, Material-UI
 - **Deployed**: AWS
+
 -**Deployed Link**: http://task-manager-rosche.s3-website.ap-south-1.amazonaws.com/signup
 
 ## Features
